@@ -21,8 +21,8 @@
 
 | [Course Objectives and Description](https://github.com/TraceyLauriault/COMS2200_Fall2016#course-description) 	|
 |-----------------------------------	|
-| [Assignments](https://github.com/TraceyLauriault/COMS2200_Fall2016#course-description) 	|
-| [Readings & Schedule](https://github.com/TraceyLauriault/COMS2200_Fall2016#course-description) 	|
+| [Assignments](https://github.com/TraceyLauriault/COMS2200_Fall2016#assignments) 	|
+| [Readings & Schedule](https://github.com/TraceyLauriault/COMS2200_Fall2016#readings--schedule) 	|
 
 # Course Description
 
